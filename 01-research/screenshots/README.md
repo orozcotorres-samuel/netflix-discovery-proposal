@@ -10,8 +10,16 @@ Raw, unedited captures backing every figure in the [research summary](../README.
 
 Drop each file into its tool folder using the **exact filename** in the tables below. The filenames are pre-assigned so the links in this index resolve as soon as the file lands.
 
+**Option A — the helper script.** Put all 18 images in one folder named so they sort in order (`01.png`, `02.png`, …), then:
+
 ```bash
-# from the repo root
+./tools/place-screenshots.sh ~/Desktop/staging           # dry run: prints the mapping
+./tools/place-screenshots.sh ~/Desktop/staging --apply   # files them
+```
+
+**Option B — by hand.**
+
+```bash
 mv ~/Desktop/Screenshot*.png 01-research/screenshots/<tool-folder>/<assigned-name>.png
 ```
 
