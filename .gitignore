@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Design tool working files (keep exports, not sources)
+*.sketch
+*.fig
+~$*
+
+# Office temp files
+~$*.docx
+~$*.xlsx

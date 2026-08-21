@@ -1,0 +1,21 @@
+traffic_rank,google_position,domain,url,page_authority,ref_domains,backlinks,monthly_search_traffic,url_keywords,category
+1,14,rottentomatoes.com,/browse/movies_at_home,31,311,483,369100,4600,Where-to-stream aggregator
+2,4,rottentomatoes.com,/guide/popular-tv-shows/,63,512,1900,230600,4100,Critic/editorial
+3,3,nytimes.com,/spotlight/what-to-watch,36,325,574,131000,4700,Publisher
+4,1,imdb.com,/what-to-watch/watch-guides/,43,3,14,83200,2900,Amazon-owned database
+5,8,justwatch.com,/us,96,1100,2600000,57000,6900,Where-to-stream aggregator
+6,2,netflix.com,/tudum/topics/what-to-watch,35,3,10,47800,1000,Netflix (editorial blog)
+7,5,variety.com,/what-to-watch-streaming-movies-shows-online/,28,96,1200,20000,3800,Publisher
+8,9,reelgood.com,/curated/trending-picks,55,62,102,9400,3500,Where-to-stream aggregator
+9,6,reddit.com,/r/televisionsuggestions/comments/1lb8as2/,0,0,0,7000,410,User-generated
+10,20,collider.com,/best-tv-shows-to-binge-watch/,56,127,1000,4800,3000,Publisher
+11,16,npr.org,/series/g-s1-72347/what-to-watch,19,6,10,4300,221,Publisher
+12,17,what-to-watch.com,/,11,167,571,3100,389,Where-to-stream aggregator
+13,11,decider.com,/what-to-watch/,51,124,1100,2300,2700,Publisher
+14,13,facebook.com,/groups/1552860684979688/posts/,0,0,0,1700,126,User-generated
+15,18,youtube.com,/watch?v=vRd3abuu5g4,0,0,0,1500,685,User-generated
+16,12,aarp.org,/entertainment/television/what-to-watch-best-new-movies-shows-streaming/,26,15,930,1000,899,Publisher
+17,7,ew.com,/what-to-watch/,18,29,157,953,73,Publisher
+18,10,instagram.com,/reel/DWzIAUIDOx_/,0,0,0,63,67,User-generated
+19,19,youtube.com,/watch?v=PBZkoXokxL8,24,3,3,54,185,User-generated
+20,15,imdb.com,/title/tt12105192/,51,7,20,24,190,Amazon-owned database
