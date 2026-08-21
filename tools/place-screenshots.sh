@@ -39,10 +39,10 @@ TARGETS=(
   "semrush/12-movies-to-watch-when-bored|Semrush - movies to watch when bored (1.9K, KD 26)"
   "semrush/13-new-movies-to-watch|Semrush - new movies to watch (33.1K, KD 81, where-to-watch Qs)"
   "semrush/14-bulk-keyword-analysis|Semrush - bulk analysis, 15 keywords (demand table source)"
-  "semrush-serp/15-serp-positions-1-10|Semrush SERP - what to watch, positions 1-10 (Netflix #2)"
-  "semrush-serp/16-serp-positions-11-20|Semrush SERP - positions 11-20 (RT movies_at_home 369.1K)"
-  "ubersuggest/17-good-movies-to-watch|Ubersuggest - good movies to watch (246K, 17K backlinks)"
-  "clicks-so/18-popular-movie-keywords|Clicks.so - popular movie keywords (3.35M, KD 95)"
+  "clicks-so/15-popular-movie-keywords|Clicks.so - popular movie keywords, DARK page (3.35M, KD 95)"
+  "ubersuggest/16-good-movies-to-watch|Ubersuggest - good movies to watch (246K, 17K backlinks)"
+  "semrush-serp/17-serp-positions-1-10|Semrush SERP - what to watch, positions 1-10 (Netflix #2)"
+  "semrush-serp/18-serp-positions-11-20|Semrush SERP - positions 11-20 (RT movies_at_home 369.1K)"
 )
 
 FILES=()

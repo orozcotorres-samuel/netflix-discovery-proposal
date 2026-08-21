@@ -76,17 +76,13 @@ United States · Desktop · Aug 20, 2026 · USD
 
 ---
 
-## Semrush — SERP Analysis
+## Clicks.so
 
-Query: **"what to watch"** · United States · 401K total results
-SERP features present: Reviews · Video · Video carousel
-
-| File | Positions | Shows |
+| File | Keyword | Shows |
 |---|---|---|
-| [`15-serp-positions-1-10.png`](semrush-serp/15-serp-positions-1-10.png) | 1–10 | IMDb #1, Netflix Tudum #2, NYT #3, Rotten Tomatoes #4, JustWatch #8 |
-| [`16-serp-positions-11-20.png`](semrush-serp/16-serp-positions-11-20.png) | 11–20 | Rotten Tomatoes `/movies_at_home` at #14 with **369.1K traffic** — the highest on the SERP |
+| [`15-popular-movie-keywords.png`](clicks-so/15-popular-movie-keywords.png) | movie (category level) | 3.35M volume · difficulty **95/100** · CPC $0.04 |
 
-> Together these two captures are the evidence for **Finding 5**: Netflix holds position #2 but ranks 6th in traffic with 4.9% of ~975,000 monthly visits.
+> Cited for the **difficulty** signal only. Its broad-match volumes ("movie," "movies and movies") and theatrical-intent terms ("movie theaters near me," 2.74M) are excluded from every total in this repo — they represent a different user problem.
 
 ---
 
@@ -94,16 +90,20 @@ SERP features present: Reviews · Video · Video carousel
 
 | File | Keyword | Shows |
 |---|---|---|
-| [`17-good-movies-to-watch.png`](ubersuggest/17-good-movies-to-watch.png) | good movies to watch | 246K volume · SEO difficulty 50 · CPC $0.46 · **17K backlinks** to top pages · informational intent |
+| [`16-good-movies-to-watch.png`](ubersuggest/16-good-movies-to-watch.png) | good movies to watch | 246K volume · SEO difficulty 50 · CPC $0.46 · **17K backlinks** to top pages · informational intent |
 
 > **Cross-validation:** Semrush reports 165K for this keyword, Ubersuggest 246K. Different clickstream models, same order of magnitude. All totals in this repo use the lower figure.
 
 ---
 
-## Clicks.so
+## Semrush — SERP Analysis
 
-| File | Keyword | Shows |
+Query: **"what to watch"** · United States · 401K total results
+SERP features present: Reviews · Video · Video carousel
+
+| File | Positions | Shows |
 |---|---|---|
-| [`18-popular-movie-keywords.png`](clicks-so/18-popular-movie-keywords.png) | movie (category level) | 3.35M volume · difficulty **95/100** · CPC $0.04 |
+| [`17-serp-positions-1-10.png`](semrush-serp/17-serp-positions-1-10.png) | 1–10 | IMDb #1, Netflix Tudum #2, NYT #3, Rotten Tomatoes #4, JustWatch #8 |
+| [`18-serp-positions-11-20.png`](semrush-serp/18-serp-positions-11-20.png) | 11–20 | Rotten Tomatoes `/movies_at_home` at #14 with **369.1K traffic** — the highest on the SERP |
 
-> Cited for the **difficulty** signal only. Its broad-match volumes ("movie," "movies and movies") and theatrical-intent terms ("movie theaters near me," 2.74M) are excluded from every total in this repo — they represent a different user problem.
+> Together these two captures are the evidence for **Finding 5**: Netflix holds position #2 but ranks 6th in traffic with 4.9% of ~975,000 monthly visits.
