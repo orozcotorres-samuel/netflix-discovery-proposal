@@ -66,7 +66,7 @@ United States · Desktop · Aug 20, 2026 · USD
 | [`11-good-shows-to-watch.png`](semrush/11-good-shows-to-watch.png) | good shows to watch | 33.1K | 47% |
 | [`12-movies-to-watch-when-bored.png`](semrush/12-movies-to-watch-when-bored.png) | movies to watch when bored | 1.9K | 26% |
 | [`13-new-movies-to-watch.png`](semrush/13-new-movies-to-watch.png) | new movies to watch | 33.1K | 81% |
-| [`14-bulk-keyword-analysis.png`](semrush/14-bulk-keyword-analysis.png) | 15-keyword bulk comparison | — | — |
+| [`14-bulk-keyword-analysis.webp`](semrush/14-bulk-keyword-analysis.webp) | 15-keyword bulk comparison | — | — |
 
 **Key captures:**
 - `07` — 70.4K keyword variations (2.5M volume) and 61.9K question variations (2.4M volume)
@@ -80,7 +80,7 @@ United States · Desktop · Aug 20, 2026 · USD
 
 | File | Keyword | Shows |
 |---|---|---|
-| [`15-popular-movie-keywords.png`](clicks-so/15-popular-movie-keywords.png) | movie (category level) | 3.35M volume · difficulty **95/100** · CPC $0.04 |
+| [`15-popular-movie-keywords.webp`](clicks-so/15-popular-movie-keywords.webp) | movie (category level) | 3.35M volume · difficulty **95/100** · CPC $0.04 |
 
 > Cited for the **difficulty** signal only. Its broad-match volumes ("movie," "movies and movies") and theatrical-intent terms ("movie theaters near me," 2.74M) are excluded from every total in this repo — they represent a different user problem.
 
@@ -90,7 +90,7 @@ United States · Desktop · Aug 20, 2026 · USD
 
 | File | Keyword | Shows |
 |---|---|---|
-| [`16-good-movies-to-watch.png`](ubersuggest/16-good-movies-to-watch.png) | good movies to watch | 246K volume · SEO difficulty 50 · CPC $0.46 · **17K backlinks** to top pages · informational intent |
+| [`16-good-movies-to-watch.webp`](ubersuggest/16-good-movies-to-watch.webp) | good movies to watch | 246K volume · SEO difficulty 50 · CPC $0.46 · **17K backlinks** to top pages · informational intent |
 
 > **Cross-validation:** Semrush reports 165K for this keyword, Ubersuggest 246K. Different clickstream models, same order of magnitude. All totals in this repo use the lower figure.
 
@@ -103,7 +103,7 @@ SERP features present: Reviews · Video · Video carousel
 
 | File | Positions | Shows |
 |---|---|---|
-| [`17-serp-positions-1-10.png`](semrush-serp/17-serp-positions-1-10.png) | 1–10 | IMDb #1, Netflix Tudum #2, NYT #3, Rotten Tomatoes #4, JustWatch #8 |
-| [`18-serp-positions-11-20.png`](semrush-serp/18-serp-positions-11-20.png) | 11–20 | Rotten Tomatoes `/movies_at_home` at #14 with **369.1K traffic** — the highest on the SERP |
+| [`17-serp-positions-1-10.webp`](semrush-serp/17-serp-positions-1-10.webp) | 1–10 | IMDb #1, Netflix Tudum #2, NYT #3, Rotten Tomatoes #4, JustWatch #8 |
+| [`18-serp-positions-11-20.webp`](semrush-serp/18-serp-positions-11-20.webp) | 11–20 | Rotten Tomatoes `/movies_at_home` at #14 with **369.1K traffic** — the highest on the SERP |
 
 > Together these two captures are the evidence for **Finding 5**: Netflix holds position #2 but ranks 6th in traffic with 4.9% of ~975,000 monthly visits.
