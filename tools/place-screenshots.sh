@@ -5,8 +5,9 @@
 #   ./tools/place-screenshots.sh ~/Desktop/staging          # dry run
 #   ./tools/place-screenshots.sh ~/Desktop/staging --apply  # actually move
 #
-# Source files are matched in sorted order to the 18 targets below, so name
-# your downloads 01.png, 02.png ... or verify the printed mapping first.
+# Source files are matched to the 18 targets below in natural sort order, so
+# image1..image18 and 01..18 both order correctly. Verify the printed mapping
+# before applying.
 
 set -euo pipefail
 
@@ -46,7 +47,7 @@ FILES=()
 while IFS= read -r f; do
   FILES+=("$f")
 done < <(find "$SRC" -maxdepth 1 -type f \
-  \( -iname '*.png' -o -iname '*.jpg' -o -iname '*.jpeg' \) | sort)
+  \( -iname '*.png' -o -iname '*.jpg' -o -iname '*.jpeg' \) | sort -V)
 
 echo "Found ${#FILES[@]} image(s) in $SRC"
 echo "Expecting ${#TARGETS[@]} screenshots"
